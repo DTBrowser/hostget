@@ -2,9 +2,10 @@ A simple HTML parsing tool that i created for studing purposes. It should not be
 Feel free to download and use it.
 
 #How to download: 
-wget https://github.com/DTBrowser/hostget/
+git clone https://github.com/DTBrowser/hostget/
+cd hostget
+chmod +x hostget.sh
 
 #How to use:
 Usage: ./hostget.sh url
 Example: ./hostget.sh domain.com
-
