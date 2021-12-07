@@ -1,0 +1,10 @@
+A simple HTML parsing tool that i created for studing means. It should not be considered a complete tool for now. Maybe i will make some changers afterwards.
+Feel free to download and use it.
+
+#How to download: 
+wget https://github.com/DTBrowser/hostget/
+
+#How to use:
+Usage: ./hostget.sh url
+Example: ./hostget.sh domain.com
+
